@@ -9,5 +9,4 @@ waffle1ne/waffle1ne is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-ps.
-intresting. Ill finish this later
+:x: Write down later. remember, no rushan
