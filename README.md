@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @waffle1ne
-- 👀 I’m interested in web, apps and games.
-- 🌱 I’m currently learning Java, JavaScript.
+- 👀 I’m interested in apps and games.
+- 🌱 I’m currently learning Java, Kotlin.
 - 💞️ I’m looking to collaborate on some fun stuff on weekends.
 - 📫 You could reach me by **[email](mailto:naitoro@mail.ru)**. Theme: *GitCollab*
 
