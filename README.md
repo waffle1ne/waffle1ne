@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @waffle1ne
-- 👀 I’m interested in apps and games.
-- 🌱 I’m currently learning Java, Kotlin.
-- 💞️ I’m looking to collaborate on some fun stuff on weekends.
-- 📫 You could reach me by **[email](mailto:naitoro@mail.ru)**. Theme: *GitCollab*
+- 👋 Hi, I’m @waffle1ne (Vladimir)
+- 👀 Java/Kotlin enjoyer
+- 🌱 Interested in useful projects
+- 📫 You could reach me by **[e-mail](mailto:naitoro@mail.ru)** or **[Telegram](https://t.me/vholly)**
 
 <!---
 waffle1ne/waffle1ne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
